@@ -1,0 +1,6 @@
+{
+  "name": "RenovaOps - 賃貸退去精算・原状回復・突発災害対応 統括オペレーションシステム",
+  "description": "東海27棟・大阪7棟（約620室）の賃貸管理業務を社長依存から組織運用へシフト。国交省ガイドライン準拠の退去立会い・精算シミュレーター、保険適用と費用三方分担、職人ネットワーク・相見積発注、大雨漏水等の突発災害トリアージと段階的承認ワークフローを統合した管理プラットフォーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
